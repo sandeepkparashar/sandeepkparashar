@@ -25,6 +25,7 @@ SQL Server performance tuning.
 | Project | What it is |
 |---|---|
 | [**CaHe**](https://github.com/sandeepkparashar/CaHe) | AI-powered career assistant — ASP.NET Core + SQLite + Claude AI, matches your profile to JDs and tracks applications |
+| [**MoviesAPI**](https://github.com/sandeepkparashar/MoviesAPI) | ASP.NET Core Web API (.NET 8) — JWT auth, EF Core, API versioning, Azure Blob Storage, full test project |
 | [**ExcelToSQLExporter**](https://github.com/sandeepkparashar/ExcelToSQLExporter) | C# utility to parse Excel files and bulk-export data into SQL Server |
 
 ---
